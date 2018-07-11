@@ -1,0 +1,7 @@
+{
+	"id": "lfr",
+	"image": "wedeploy/lms-liferay-ce:7.0.6-ga7-1.4",
+	"cpu": 2,
+	"memory": 4096,
+	"zeroDowntime": false
+}
